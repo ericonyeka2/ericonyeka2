@@ -14,12 +14,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|      Conducting a security audit     | <a href="https://google.com">Detection Lab</a>|
+| Anlayzing network structure and security | <a href="https://google.com">Detection Lab</a>|
+| Using Linux commands to manage file permissions        | SOC Automation Lab|
+| Using SQL queries and applying filters  | SOC Automation Lab|
+| Identifying vulnerabilities for a small business| SOC Automation Lab|
+| Documenting incidents with an incident handler's jounral| SOC Automation Lab|
+| Importing and parsing a text file in a security-related scenario| SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,12 +49,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://coursera.org/share/ff72fefe626421ed291ae095b181bf77" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Conducting a security audit  
+- Anlayzing network structure and security
+- Using Linux commands to manage file permissions
+- Using SQL queries and applying filters
+- Identifying vulnerabilities for a small business
+- Documenting incidents with an incident handler's jounral
+- Importing and parsing a text file in a security-related scenario
