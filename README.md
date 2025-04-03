@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Conducting a security audit  
+- <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>
 - Anlayzing network structure and security
 - Using Linux commands to manage file permissions
 - Using SQL queries and applying filters
