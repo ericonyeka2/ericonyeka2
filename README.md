@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|      Conducting a security audit     | <a href="https://google.com">Detection Lab</a>|
+|      Conducting a security audit     | <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>|
 | Anlayzing network structure and security | <a href="https://google.com">Detection Lab</a>|
 | Using Linux commands to manage file permissions        | SOC Automation Lab|
 | Using SQL queries and applying filters  | SOC Automation Lab|
