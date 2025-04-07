@@ -15,8 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |      Conducting a security audit     | <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>|
-| Analyzing network structure and security | <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Responding to a security Incident using the NIST CSF framework</a>|
-| Anlayzing network structure and security | <a href="https://google.com">Detection Lab</a>|
+| Analyzing network structure and security | <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>|
 | Using Linux commands to manage file permissions        | SOC Automation Lab|
 | Using SQL queries and applying filters  | SOC Automation Lab|
 | Identifying vulnerabilities for a small business| SOC Automation Lab|
@@ -54,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>
-- Anlayzing network structure and security
+-  <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>
 - Using Linux commands to manage file permissions
 - Using SQL queries and applying filters
 - Identifying vulnerabilities for a small business
