@@ -10,13 +10,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |      Conducting a security audit     | <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>|
 | Analyzing network structure and security | <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>|
-| Using Linux commands to manage file permissions        | SOC Automation Lab|
+| Using Linux commands to manage file permissions        | <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management
+</a>|
 | Using SQL queries and applying filters  | SOC Automation Lab|
 | Identifying vulnerabilities for a small business| SOC Automation Lab|
 | Documenting incidents with an incident handler's jounral| SOC Automation Lab|
@@ -54,7 +54,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>
 -  <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>
-- Using Linux commands to manage file permissions
+- <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management
+</a>
 - Using SQL queries and applying filters
 - Identifying vulnerabilities for a small business
 - Documenting incidents with an incident handler's jounral
