@@ -17,7 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Analyzing network structure and security | <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>|
 | Using Linux commands to manage file permissions        | <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management
 </a>|
-| Using SQL queries and applying filters  | SOC Automation Lab|
+| Using SQL queries and applying filters  |<a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries
+</a> |
 | Identifying vulnerabilities for a small business| SOC Automation Lab|
 | Documenting incidents with an incident handler's jounral| SOC Automation Lab|
 | Importing and parsing a text file in a security-related scenario| SOC Automation Lab|
@@ -54,9 +55,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>
 -  <a href="https://github.com/ericonyeka2/Network-Incident-Report---DDoS-Attack-Response/blob/main/README.md">Network Incident Report</a>
-- <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management
-</a>
-- Using SQL queries and applying filters
+- <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management</a>
+- <a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> 
 - Identifying vulnerabilities for a small business
 - Documenting incidents with an incident handler's jounral
 - Importing and parsing a text file in a security-related scenario
