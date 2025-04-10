@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Using Linux commands to manage file permissions        | <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management</a>|
 | Using SQL queries and applying filters  |<a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> |
 | Identifying Vulnerabilities in a Business|<a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a> |
-| Documenting incidents with an incident handler's jounral| SOC Automation Lab|
+| Documenting incidents with an incident handler's jounral| <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>|
 | Importing and parsing a text file in a security-related scenario| SOC Automation Lab|
 
 ## Tools
@@ -56,5 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management</a>
 - <a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> 
 - <a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a>
-- Documenting incidents with an incident handler's jounral
+- <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>
 - Importing and parsing a text file in a security-related scenario
