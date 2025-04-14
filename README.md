@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Using SQL queries and applying filters  |<a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> |
 | Identifying Vulnerabilities in a Business|<a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a> |
 | Documenting incidents with an incident handler's jounral| <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>|
-| Importing and parsing a text file in a security-related scenario| SOC Automation Lab|
+| Python for Security Automation| <a href="https://github.com/ericonyeka2/Python-Algorithm-for-Access-Control-List-Management/blob/main/README.md">Python Algorithm for Access Control List Management</a>|
 
 ## Tools
 
@@ -57,4 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> 
 - <a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a>
 - <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>
-- Importing and parsing a text file in a security-related scenario
+- <a href="https://github.com/ericonyeka2/Python-Algorithm-for-Access-Control-List-Management/blob/main/README.md">Python Algorithm for Access Control List Management</a>
