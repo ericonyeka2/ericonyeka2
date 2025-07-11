@@ -42,16 +42,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-</div>
-    <a >
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-<div>
-    <a href="https://coursera.org/share/ff72fefe626421ed291ae095b181bf77" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</a>
+<img width="528" height="408" alt="Screenshot 2025-07-11 at 11 43 22" src="https://github.com/user-attachments/assets/f6aa991c-45bf-4cfb-9760-761921a17bb2" /> 
+<img width="527" height="410" alt="Screenshot 2025-07-11 at 11 44 33" src="https://github.com/user-attachments/assets/617da844-ef41-4d6a-953c-8981b2206598" />
 
-</div>
 
 ## Projects
 - <a href="https://github.com/ericonyeka2/Conducting-a-security-audit">Conducting a security audit</a>
