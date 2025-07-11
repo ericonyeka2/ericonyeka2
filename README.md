@@ -42,7 +42,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-
+</div>
+    <a >
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 <div>
     <a href="https://coursera.org/share/ff72fefe626421ed291ae095b181bf77" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
