@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/eric-onyeka-65b65a374/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent computer science graduate with a strong interest in technology and a passion for solving complex problems.
+I am a recent software engineering graduate with a strong interest in technology and a passion for solving complex problems.
 
 ## Objective
 
