@@ -9,7 +9,17 @@ than just making it work.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.  My core values of safeguarding assets and adhering to laws align with the principles of cybersecurity, and I am committed to learning and growing in this field. With my enthusiasm for solving complex problems and working on computers, I am ready to contribute to a team dedicated to creating secure digital environments.
+My background sits between software engineering and security.
+I write Python and C#/.NET, work across the stack, and have a
+CompTIA Security+ certification alongside hands-on experience
+in security auditing, vulnerability assessment, and SIEM tooling.
+
+Most recently I designed and built an AI evaluation framework
+from scratch, comparing commercial LLMs using a cross-provider
+"LLM-as-a-judge" system, which caught a real safety and
+copyright failure in one provider's outputs.
+
+This page collects the security-focused projects I've worked on.
 
 
 ## Skills
