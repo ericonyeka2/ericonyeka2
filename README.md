@@ -21,6 +21,13 @@ copyright failure in one provider's outputs.
 
 This page collects the security-focused projects I've worked on.
 
+## Featured Project
+
+**[AI Evaluation Framework](https://github.com/ericonyeka/Evaluating-Generative-AI)** — A framework
+comparing commercial LLMs (OpenAI, Gemini, Claude) using a cross-provider
+"LLM-as-a-judge" system. Built solo in Python with a Flask UI and CLI.
+Caught a real safety and copyright failure in one provider's outputs.
+
 
 ## Skills
 
