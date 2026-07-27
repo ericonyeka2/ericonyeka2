@@ -67,3 +67,4 @@ This page collects the security-focused projects I've worked on.
 - <a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a>
 - <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>
 - <a href="https://github.com/ericonyeka2/Python-Algorithm-for-Access-Control-List-Management/blob/main/README.md">Python Algorithm for Access Control List Management</a>
+- <a href="https://github.com/ericonyeka/Evaluating-Generative-AI">Evaluating Generative AI</a>
