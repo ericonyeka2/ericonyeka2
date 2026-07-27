@@ -2,7 +2,10 @@
 <a href="https://www.linkedin.com/in/eric-onyeka-65b65a374/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a first class software engineering graduate with a strong interest in technology and a passion for solving complex problems.
+First-Class Software Engineering graduate (University of Hull).
+I build things end to end, from AI evaluation pipelines to
+security audits, and I care about doing it properly rather
+than just making it work.
 
 ## Objective
 
