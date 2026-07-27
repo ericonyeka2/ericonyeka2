@@ -31,7 +31,7 @@ This page collects the security-focused projects I've worked on.
 | Using Linux commands to manage file permissions        | <a href="https://github.com/ericonyeka2/Linux-File-Permissions-Management/blob/main/README.md">Linux File Permissions Management</a>|
 | Using SQL queries and applying filters  |<a href="https://github.com/ericonyeka2/Applying-filters-to-SQL-queries">Applying Filters to SQL queries</a> |
 | Identifying Vulnerabilities in a Business|<a href="https://github.com/ericonyeka2/Vulnerability-Assessment-for-a-Small-Business/blob/main/README.md">Vulnerability Assessment for a Small Business</a> |
-| Documenting incidents with an incident handler's jounral| <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>|
+| Documenting incidents with an incident handler's journal| <a href="https://github.com/ericonyeka2/Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry/blob/main/README.md">Ransomware Incident Response Incident Handler's Journal Entry</a>|
 | Python for Security Automation| <a href="https://github.com/ericonyeka2/Python-Algorithm-for-Access-Control-List-Management/blob/main/README.md">Python Algorithm for Access Control List Management</a>|
 
 ## Tools
